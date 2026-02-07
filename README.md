@@ -1,8 +1,6 @@
 # my-quickshell-setup
 
-#############################
-######## Quickbar ###########
-############################# 
+## Quickbar
 bind = $mod, D, exec, qs ipc call shell toggleLauncher
 bind = $mod, A, exec, qs ipc call shell toggleDashboard
 bind = $mod, N, exec, qs ipc call shell toggleSidebar
