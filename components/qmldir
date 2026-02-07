@@ -1,0 +1,8 @@
+module components
+BarButton 1.0 BarButton.qml
+BarSeparator 1.0 BarSeparator.qml
+QuickToggle 1.0 QuickToggle.qml
+StatBar 1.0 StatBar.qml
+MediaButton 1.0 MediaButton.qml
+SessionButton 1.0 SessionButton.qml
+MpdPlayer 1.0 MpdPlayer.qml

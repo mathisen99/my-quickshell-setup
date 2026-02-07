@@ -1,0 +1,8 @@
+module popups
+DashboardPopup 1.0 DashboardPopup.qml
+SidebarPopup 1.0 SidebarPopup.qml
+SessionPopup 1.0 SessionPopup.qml
+NotificationPopup 1.0 NotificationPopup.qml
+LauncherPopup 1.0 LauncherPopup.qml
+SettingsPopup 1.0 SettingsPopup.qml
+WallpaperPopup 1.0 WallpaperPopup.qml
